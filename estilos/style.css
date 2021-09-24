@@ -1,0 +1,37 @@
+* {
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 16px;
+
+}
+body {
+    background-color: rgb(6, 6, 100);
+}
+main {
+    background-color: white;
+    width: 500px;
+    margin: auto;
+    padding: 10px;
+    box-shadow: 3px 3px 5px black;
+}
+h1 {
+    font-size: 2em;
+    color: rgb(78, 16, 136);
+}
+h2 {
+    font-size: 1.5em;
+    color: rgb(78, 5, 146);
+}
+
+img.lado {
+    float: right;
+}
+a {
+    text-decoration: none;
+    font-weight: bold;
+    color: rgb(76, 7, 141);
+}
+
+a:houver {
+    text-decoration: underline;
+    color: rgb(11, 27, 167);
+}
